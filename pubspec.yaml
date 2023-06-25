@@ -2,7 +2,7 @@ name: color_adjust
 description: An extension on the Flutter Color class that provides color manipulation methods.
 
 repository: https://github.com/edunnett/color_adjust
-version: 1.0.0
+version: 1.0.1
 
 environment:
   sdk: ">=3.0.5 <4.0.0"

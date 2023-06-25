@@ -6,7 +6,7 @@ The `color_adjust` is an extension on the Flutter Color class that provides a co
 
 To use these methods, you need to import the `color_adjust` extension and apply these methods on a Color object.
 
-![Screenshot of Example](./assets/screenshot.png)
+![Screenshot of Example](https://github.com/edunnett/color_adjust/raw/main/assets/screenshot.png)
 
 Example:
 
