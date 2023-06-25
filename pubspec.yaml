@@ -2,7 +2,7 @@ name: color_adjust
 description: An extension on the Flutter Color class that provides color manipulation methods.
 
 repository: https://github.com/edunnett/color_adjust
-version: 1.0.3
+version: 1.0.4
 
 environment:
   sdk: ">=3.0.5 <4.0.0"
@@ -14,15 +14,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
   flutter_lints: ^2.0.0
 
-# For information on the generic Dart part of this file, see the
-# following page: https://dart.dev/tools/pub/pubspec
-
-# The following section is specific to Flutter packages.
 flutter:
-  # The following line ensures that the Material Icons font is
-  # included with your application, so that you can use the icons in
-  # the material Icons class.
   uses-material-design: true
+
+screenshots:
+  - description: "This screenshot shows the example."
+    path: assets/screenshot.png
