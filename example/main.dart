@@ -1,4 +1,4 @@
-import 'package:color_adjust/adjust.dart';
+import 'package:color_adjust/color_adjust.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_colorpicker/flutter_colorpicker.dart';
 
