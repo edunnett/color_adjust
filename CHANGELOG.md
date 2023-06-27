@@ -3,3 +3,4 @@
 1.0.2 upadted readme
 1.0.3 dependency fix
 1.0.4 screenshot
+1.0.5 fixed comments
